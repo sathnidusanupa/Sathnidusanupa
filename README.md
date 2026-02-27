@@ -23,16 +23,15 @@ I’m a  <code>Full Stack Developer</code> & <code>Mobile Application Developer<
 </p>
 
 ```typescript
-const Thenuja Hansana = {
-    location: "Galle, Sri Lanka",
+const Sanupa Sathnidu = {
+    location: "Matara, Sri Lanka",
 
     education: "BSc(Hons) Computer Science", "Software Engineering Higher Diploma",
 
-    roles: ["Full Stack Developer", "Mobile Application Developer"],
+    roles: ["Full Stack Developer"],
 
     currentFocus: ["Full-Stack Application Development",
                   "Backend Architecture & RESTful APIs",
-                  "Mobile App Development",
                   "Database Design & Optimization" ],
 
     lifePhilosophy: "I don't want to just write code that work. I write code that is scalable and clean :)"
