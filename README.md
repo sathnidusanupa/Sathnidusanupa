@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-I’m a  <code>Full Stack Developer</code> & <code>Mobile Application Developer</code>  who obsessed with building<br> scalable, production-ready applications with clean frontends backed by rock-solid<br> secure backends.  <br>I enjoy turning complex ideas into reliable systems that actually hold up<br> under real users and real traffic.<br><br>When I’m not shipping code, you’ll find me:<br>🔹 Teaching programming concepts on <a href="https://www.youtube.com/@ThenujaCodes" target="_blank">YouTube</a><br>🔹 Solving <a href="https://leetcode.com/u/thenujaCodes/" target="_blank"><b>LeetCode</b></a> problems to sharpen my fundamentals<br>🔹 Exploring system design, performance, and backend architecture<br><br>I care deeply about code quality, scalability, and real-world impact**.<br>
+I’m a  <code>Full Stack Developer</code> & <code>Mobile Application Developer</code>  who obsessed with building<br> scalable, production-ready applications with clean frontends backed by rock-solid<br> secure backends.  <br>I enjoy turning complex ideas into reliable systems that actually hold up<br> under real users and real traffic.<br><br>🔹 Exploring system design, performance, and backend architecture<br><br>I care deeply about code quality, scalability, and real-world impact**.<br>
 </p>
 
 ###
