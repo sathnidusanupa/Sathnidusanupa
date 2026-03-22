@@ -153,10 +153,8 @@ const Sanupa Sathnidu = {
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-
-[![](https://visitcount.itsvg.in/api?id=Thenuja-Hansana&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3>If Its Work Don't Touch It </h3>
+-Sanupa Sathnidu-
 
 <p align="center">
   <img  width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
